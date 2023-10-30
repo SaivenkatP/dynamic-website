@@ -1,0 +1,119 @@
+.textinnav {
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 1.5em;
+    padding: 1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.textinnav:hover {
+    color: rgb(130, 200, 255);
+}
+
+@media(min-width:992px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+}
+
+#home {
+    padding: 3.5% 1%;
+}
+
+.content {
+    max-width: 500px;
+    margin-top: 30%;
+    padding: 10px 0;
+}
+
+.booking {
+    padding: 10px;
+    color: cadetblue;
+    border: 1px solid cadetblue;
+    border-radius: 5px;
+}
+
+.booking:hover {
+    color: cornflowerblue;
+}
+
+#intro {
+    margin-left: 20px;
+}
+
+.row1 {
+    display: flex;
+}
+
+.listcontent {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.listHeading {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+    color: dodgerblue;
+}
+
+i {
+    width: 30px;
+}
+
+section #aboutus>div {
+    margin: 20px;
+    padding: 10px;
+}
+
+section #aboutus .hello {
+    padding: 10px;
+}
+
+section #aboutus i {
+    color: blue;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#aboutus {
+    background-color: #f0f0f0;
+    background-image: url("https://www.transparenttextures.com/patterns/white-brushed.png");
+
+}
+
+.knowus-whole {
+    width: auto;
+    padding: 5% 10%;
+}
+
+.knowus-head {
+    text-align: center;
+}
+
+h4 {
+    font-weight: lighter;
+}
+
+#Appointment {
+    background-color: #75cbe0;
+    background-image: url("https://www.transparenttextures.com/patterns/white-brushed.png");
+}
+
+section #Appointment {
+    margin-top: 30px;
+}
+
+.Appointmentheading {
+    text-align: center;
+}
+
+.Appointment-inner {
+    padding: 2%
+}
+
+.app-boder-font {
+    margin-left: 10px;
+}
+
